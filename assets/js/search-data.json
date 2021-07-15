@@ -1,0 +1,94 @@
+{
+  
+    
+        "post0": {
+            "title": "Second wave analysis",
+            "content": "Covid-19 Matplotlib Overview in India . Second wave Analysis (from 20th April 2021) . India . Last update: 2021-07-14 . Confirmed cases: . 30986807 (+41759) . Confirmed deaths: . 412019 (+578) . Analysis of top-10 States in covid cases . states Cases Deaths PCases PDeaths Cases (+) Deaths (+) Fatality Rate Maharashtra 6181247 126390 6172645 126220 8602 170 2.04 Kerala 3103310 14938 3087673 14810 15637 128 0.48 Karnataka 2876587 35989 2874597 35944 1990 45 1.25 Tamil Nadu 2526401 33557 2523943 33502 2458 55 1.33 Andhra Pradesh 1929579 13057 1926988 13042 2591 15 0.68 Uttar Pradesh 1707585 22704 1707502 22704 83 0 1.33 West Bengal 1514708 17958 1513877 17944 831 14 1.19 Delhi 1435281 25021 1435204 25020 77 1 1.74 Chhattisgarh 998817 13486 998565 13482 252 4 1.35 Rajasthan 953224 8947 953187 8945 37 2 0.94 Odisha 945749 4848 943675 4783 2074 65 0.51 Gujarat 824346 10074 824305 10074 41 0 1.22 Madhya Pradesh 791594 10508 791583 10508 11 0 1.33 Haryana 769383 9571 769343 9563 40 8 1.24 Bihar 723570 9621 723457 9619 113 2 1.33 Telangana 633895 3743 633146 3738 749 5 0.59 Punjab 597929 16207 597821 16199 108 8 2.71 Assam 540453 4910 538407 4888 2046 22 0.91 Jharkhand 346479 5120 346411 5120 68 0 1.48 Uttarakhand 341307 7352 341274 7351 33 1 2.15 Jammu and Kashmir 319152 4360 318991 4358 161 2 1.37 Himachal Pradesh 203962 3483 203869 3480 93 3 1.71 Goa 169215 3101 168988 3101 227 0 1.83 Puducherry 119302 1772 119181 1771 121 1 1.49 Manipur 80521 1326 79417 1309 1104 17 1.65 Tripura 71870 715 71312 714 558 1 0.99 Chandigarh 61851 809 61844 809 7 0 1.31 Meghalaya 55640 921 55218 918 422 3 1.66 Arunachal Pradesh 41279 195 40814 193 465 2 0.47 Nagaland 26249 516 26140 514 109 2 1.97 Mizoram 25170 115 24702 113 468 2 0.46 Sikkim 22792 317 22623 317 169 0 1.39 Ladakh 20231 206 20227 206 4 0 1.02 Dadra and Nagar Haveli and Daman and Diu 10594 4 10592 4 2 0 0.04 Lakshadweep 10036 49 10031 49 5 0 0.49 Andaman and Nicobar Islands 7499 129 7496 129 3 0 1.72 . Punjab has highest Fatality rate (2.71) . Dadra and Nagar Haveli and Daman and Diu has highest Fatality rate (0.04) .",
+            "url": "https://rohitkamalr.github.io/covid-19-Dashboard/2021/07/14/second_wave.html",
+            "relUrl": "/2021/07/14/second_wave.html",
+            "date": " • Jul 14, 2021"
+        }
+        
+    
+  
+    
+        ,"post1": {
+            "title": "Latest COVID-19 India Matplotlib Overview",
+            "content": "India . Last update: 2021-07-14 . Confirmed cases: . 30986807 (+41759) . Confirmed deaths: . 412019 (+578) . states Cases Deaths PCases PDeaths Cases (+) Deaths (+) Fatality Rate Maharashtra 6181247 126390 6172645 126220 8602 170 2.04 Kerala 3103310 14938 3087673 14810 15637 128 0.48 Karnataka 2876587 35989 2874597 35944 1990 45 1.25 Tamil Nadu 2526401 33557 2523943 33502 2458 55 1.33 Andhra Pradesh 1929579 13057 1926988 13042 2591 15 0.68 Uttar Pradesh 1707585 22704 1707502 22704 83 0 1.33 West Bengal 1514708 17958 1513877 17944 831 14 1.19 Delhi 1435281 25021 1435204 25020 77 1 1.74 Chhattisgarh 998817 13486 998565 13482 252 4 1.35 Rajasthan 953224 8947 953187 8945 37 2 0.94 Odisha 945749 4848 943675 4783 2074 65 0.51 Gujarat 824346 10074 824305 10074 41 0 1.22 Madhya Pradesh 791594 10508 791583 10508 11 0 1.33 Haryana 769383 9571 769343 9563 40 8 1.24 Bihar 723570 9621 723457 9619 113 2 1.33 Telangana 633895 3743 633146 3738 749 5 0.59 Punjab 597929 16207 597821 16199 108 8 2.71 Assam 540453 4910 538407 4888 2046 22 0.91 Jharkhand 346479 5120 346411 5120 68 0 1.48 Uttarakhand 341307 7352 341274 7351 33 1 2.15 Jammu and Kashmir 319152 4360 318991 4358 161 2 1.37 Himachal Pradesh 203962 3483 203869 3480 93 3 1.71 Goa 169215 3101 168988 3101 227 0 1.83 Puducherry 119302 1772 119181 1771 121 1 1.49 Manipur 80521 1326 79417 1309 1104 17 1.65 Tripura 71870 715 71312 714 558 1 0.99 Chandigarh 61851 809 61844 809 7 0 1.31 Meghalaya 55640 921 55218 918 422 3 1.66 Arunachal Pradesh 41279 195 40814 193 465 2 0.47 Nagaland 26249 516 26140 514 109 2 1.97 Mizoram 25170 115 24702 113 468 2 0.46 Sikkim 22792 317 22623 317 169 0 1.39 Ladakh 20231 206 20227 206 4 0 1.02 Dadra and Nagar Haveli and Daman and Diu 10594 4 10592 4 2 0 0.04 Lakshadweep 10036 49 10031 49 5 0 0.49 Andaman and Nicobar Islands 7499 129 7496 129 3 0 1.72 .",
+            "url": "https://rohitkamalr.github.io/covid-19-Dashboard/2021/07/14/latest.html",
+            "relUrl": "/2021/07/14/latest.html",
+            "date": " • Jul 14, 2021"
+        }
+        
+    
+  
+    
+        ,"post2": {
+            "title": "COVID-19 India Matplotlib Overview",
+            "content": "India . Last update: 28th July, 2020 . Confirmed cases: . 1514800 (+49001) . Confirmed deaths: . 34121 (+770) . states Cases Deaths PCases PDeaths Cases (+) Deaths (+) Fatality Rate Maharashtra 391440 14164 383723 13882 7717 282 3.62 Tamil Nadu 227688 3659 220716 3571 6972 88 1.61 Delhi 132275 3881 131219 3853 1056 28 2.93 Andhra Pradesh 110297 1148 102349 1090 7948 58 1.04 Karnataka 107001 2064 101465 1962 5536 102 1.93 Uttar Pradesh 73951 1497 70493 1456 3458 41 2.02 West Bengal 62964 1449 60830 1411 2134 38 2.30 Gujarat 57982 2372 56874 2348 1108 24 4.09 Telangana 57142 480 55532 471 1610 9 0.84 Bihar 43591 269 41111 255 2480 14 0.62 Rajasthan 38636 644 37564 633 1072 11 1.67 Assam 34846 92 33475 90 1371 2 0.26 Haryana 32876 406 32127 397 749 9 1.23 Madhya Pradesh 29217 831 28589 821 628 10 2.84 Orissa 28107 189 26892 181 1215 8 0.67 Kerala 20895 68 19728 64 1167 4 0.33 Jammu and Kashmir 18879 333 18390 321 489 12 1.76 Punjab 14378 336 13769 318 609 18 2.34 Jharkhand 9563 94 8803 90 760 4 0.98 Goa 5287 36 5119 36 168 0 0.68 Tripura 4287 21 4066 17 221 4 0.49 Pondicherry 3013 47 2874 43 139 4 1.56 Himachal Pradesh 2330 13 2270 13 60 0 0.56 Manipur 2317 0 2286 0 31 0 0.00 Nagaland 1460 4 1385 5 75 0 0.27 Arunachal Pradesh 1330 3 1239 3 91 0 0.23 Chandigarh 934 14 910 14 24 0 1.50 Meghalaya 779 5 738 5 41 0 0.64 Sikkim 592 1 568 1 24 0 0.17 Mizoram 384 0 361 0 23 0 0.00 Andaman and Nicobar Islands 359 1 334 1 25 0 0.28 Daman and Diu 0 0 0 0 0 0 NaN Lakshadweep 0 0 0 0 0 0 NaN .",
+            "url": "https://rohitkamalr.github.io/covid-19-Dashboard/2020/07/28/covid.html",
+            "relUrl": "/2020/07/28/covid.html",
+            "date": " • Jul 28, 2020"
+        }
+        
+    
+  
+    
+        ,"post3": {
+            "title": "An Example Markdown Post",
+            "content": "Example Markdown Post . Basic setup . Jekyll requires blog post files to be named according to the following format: . YEAR-MONTH-DAY-filename.md . Where YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and filename is whatever file name you choose, to remind yourself what this post is about. .md is the file extension for markdown files. . The first line of the file should start with a single hash character, then a space, then your title. This is how you create a “level 1 heading” in markdown. Then you can create level 2, 3, etc headings as you wish but repeating the hash character, such as you see in the line ## File names above. . Basic formatting . You can use italics, bold, code font text, and create links. Here’s a footnote 1. Here’s a horizontal rule: . . Lists . Here’s a list: . item 1 | item 2 | . And a numbered list: . item 1 | item 2 | Boxes and stuff . This is a quotation . . You can include alert boxes …and… . . You can include info boxes Images . . Code . You can format text and code per usual . General preformatted text: . # Do a thing do_thing() . Python code and output: . # Prints &#39;2&#39; print(1+1) . 2 . Formatting text as shell commands: . echo &quot;hello world&quot; ./some_script.sh --option &quot;value&quot; wget https://example.com/cat_photo1.png . Formatting text as YAML: . key: value - another_key: &quot;another value&quot; . Tables . Column 1 Column 2 . A thing | Another thing | . Tweetcards . Altair 4.0 is released! https://t.co/PCyrIOTcvvTry it with: pip install -U altairThe full list of changes is at https://t.co/roXmzcsT58 ...read on for some highlights. pic.twitter.com/vWJ0ZveKbZ . &mdash; Jake VanderPlas (@jakevdp) December 11, 2019 Footnotes . This is the footnote. &#8617; . |",
+            "url": "https://rohitkamalr.github.io/covid-19-Dashboard/markdown/2020/01/14/test-markdown-post.html",
+            "relUrl": "/markdown/2020/01/14/test-markdown-post.html",
+            "date": " • Jan 14, 2020"
+        }
+        
+    
+  
+
+  
+  
+
+  
+      ,"page1": {
+          "title": "About Me",
+          "content": "This is where you put the contents of your About page. Like all your pages, it’s in Markdown format. . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "url": "https://rohitkamalr.github.io/covid-19-Dashboard/about/",
+          "relUrl": "/about/",
+          "date": ""
+      }
+      
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+      ,"page10": {
+          "title": "",
+          "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
+          "url": "https://rohitkamalr.github.io/covid-19-Dashboard/robots.txt",
+          "relUrl": "/robots.txt",
+          "date": ""
+      }
+      
+  
+
+}
